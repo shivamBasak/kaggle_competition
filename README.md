@@ -4,7 +4,7 @@ https://www.kaggle.com/shivambasak
 Repository Name: kaggle_competition
 
 Description:
-Welcome to my kaggle_competition repository, a streamlined codebase for tackling the Kaggle competitions . This repository contains a single Jupyter notebook, of every competition I participated, which encapsulates the entire data science pipeline, from exploratory data analysis to model training and evaluation.
+Welcome to my kaggle_competition repository, a streamlined codebase for tackling the Kaggle competitions . This repository contains  Jupyter notebook, of every competition I participated, which encapsulates the entire data science pipeline, from exploratory data analysis to model training and evaluation.This repository and the accompanying Jupyter notebook, kaggle_contest -`.ipynb`, were created for learning purposes, providing a hands-on experience in data science and machine learning through participation in the Kaggle competitions 
 
 ### Contents:
 
