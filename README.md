@@ -1,6 +1,7 @@
 # kaggle_competition
 My Profile
-https://www.kaggle.com/shivambasak
+https://www.kaggle.com/shivambasak 
+<br>
 Repository Name: kaggle_competition
 
 Description:
